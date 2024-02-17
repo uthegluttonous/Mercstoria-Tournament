@@ -1,2 +1,0 @@
-# Mercstoria-Tournament
-tournament
